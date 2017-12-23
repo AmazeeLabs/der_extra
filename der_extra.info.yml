@@ -1,0 +1,8 @@
+name: Dynamic Entity Reference Extra
+type: module
+description: 'Provides extra widgets and formatters for Dynamic Entity Reference field to improve usablity.'
+package: Field types
+core: 8.x
+dependencies:
+  - 'drupal:dynamic_entity_reference (>1.4)'
+  - 'drupal:chosen'
