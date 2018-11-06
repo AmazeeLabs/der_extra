@@ -1,0 +1,13 @@
+{
+  "name": "drupal/der_extra",
+  "type": "drupal-module",
+  "description": "Provides a chosen-based widget for the dynamic entity reference fields.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/sandbox/jibran/2932751",
+  "minimum-stability": "dev",
+  "support": {
+    "source": "https://cgit.drupalcode.org/sandbox-jibran-2932751"
+  },
+  "require": { }
+}
